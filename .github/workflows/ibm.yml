@@ -1,6 +1,6 @@
 name: IBM Cloud Deploy
 
-on:
+on: 
   workflow_dispatch:
   push:
     branches: [ master ]
